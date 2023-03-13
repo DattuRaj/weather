@@ -1,0 +1,59 @@
+        
+body{
+        text-align: center;
+
+    }
+h1{
+     font-weight: bold;
+     font-size: 40px;  color: tomato;
+}
+.input{
+    text-align: center;
+    padding: 50px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-image: url('');
+}
+#location{ height: 30px; width: 250px;
+    
+}
+#location:hover{
+    border: 2px black solid;
+}
+#btn{  margin-left: 10px;
+    color: white;
+    height: 35px;
+    background-color: rgb(250, 9, 9);
+    font-weight: bold;
+    border: none;
+    font-size: x-large;
+    border-radius: 8px;
+    
+    
+}
+.info{
+    
+    height:300px ;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 2px;
+    border: 2px solid tomato;
+}
+#temp-info{
+    font-size: 40px;
+}
+#weather-info{
+    font-size: 30px;
+}
+#location-info{
+    font-size: 40px;
+}
+#icon{
+    
+    height: 130px;
+    width: 130px;
+}
